@@ -17,7 +17,7 @@
         }else {
             let answer = eval(screen.value);
             screen.value = answer;
-            console.log(equal + "this is the equal button")
+            // console.log(equal + "this is the equal button")
         }
     })
 
